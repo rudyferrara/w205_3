@@ -1,0 +1,4 @@
+-0.2183171188739938     -0.10307193394146298
+
+   -- There appears to be a larger correlation between variance of procedure score and survey results, although the correlation is negative for both.
+   

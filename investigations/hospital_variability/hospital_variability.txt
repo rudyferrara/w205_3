@@ -1,0 +1,14 @@
+ED_1b   ED1     8617.740839212507
+ED_2b   ED2     3864.6924460743544
+OP_18b  OP 18   1656.5529409803205
+OP_3b   Median Time to Transfer to Another Facility for Acute Coronary Intervention     869.0306968514053
+STK_4   Thrombolytic Therapy    481.98665882944397
+OP_23   Head CT results 477.18888614639235
+AMI_7a  Fibrinolytic Therapy Received Within 30 Minutes Of Hospital Arrival    352.6666666666667
+OP_2    Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival   325.74632352941165
+OP_21   Median time to pain med 314.0819735739413
+OP_20   Door to diagnostic eval 285.00371267017476
+
+-- The query produces the variance in scores by procedure, regardless of which
+hospital the procedure was performed at.
+
